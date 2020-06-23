@@ -3,7 +3,6 @@ icon=shillelagh
 
 weight=10
 carriesraid=true
-qualifier=dún
 hillQualifier=ardchríche
 mountainQualifier=sliabhraon
 forestQualifier=foraois
