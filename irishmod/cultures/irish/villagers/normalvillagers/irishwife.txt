@@ -22,7 +22,6 @@ clothes=free,0,textures/entity/norman/female/clothes/nor_housewife_1.png
 clothes=free,0,textures/entity/norman/female/clothes/nor_housewife_2.png
 clothes=free,0,textures/entity/norman/female/clothes/nor_housewife_2.png
 
-clothes=free,1,textures/entity/norman/female/hair/nor_blond.png
 clothes=free,1,textures/entity/norman/female/hair/nor_brown.png
 clothes=free,1,textures/entity/norman/female/hair/nor_darkb.png
 clothes=free,1,textures/entity/norman/female/hair/nor_lightb.png
