@@ -10,3 +10,4 @@ initial.shop=carpenter
 initial.tag=carpentry
 
 initial.male=irishcarpenter
+initial.female=irishwife
