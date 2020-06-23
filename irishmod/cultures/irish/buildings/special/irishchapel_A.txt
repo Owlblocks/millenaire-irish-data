@@ -1,0 +1,10 @@
+building.length=11
+building.width=19
+building.buildingorientation=1
+
+initial.startlevel=-1
+initial.nativename=Séipéal
+initial.priority=800
+initial.pathlevel=1
+
+initial.tag=praying

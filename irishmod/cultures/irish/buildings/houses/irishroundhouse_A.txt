@@ -1,0 +1,12 @@
+building.length=11
+building.width=11
+building.buildingorientation=3
+
+
+initial.startlevel=-1
+initial.nativename=Teach Cruinn
+initial.priority=800
+initial.pathlevel=1
+
+initial.male = irishlumberman
+initial.female = irishwife

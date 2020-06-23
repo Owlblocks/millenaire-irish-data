@@ -1,0 +1,16 @@
+culture.irish=Gaelic
+culture.fullname=The Gaels
+
+village.míleata=Military Village
+
+shop.carpenter=Carpenter's Shop
+shop.tavern=Tavern
+
+villager.irishboy=Boy
+villager.irishgirl=Girl
+villager.king=King
+villager.queen=Queen
+villager.irishbartender=Bartender
+villager.irishcarpenter=Carpenter
+villager.irishlumberman=Lumberman
+villager.irishwife=Wife

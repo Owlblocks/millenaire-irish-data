@@ -1,0 +1,12 @@
+building.buildingorientation=3
+building.width=39
+building.length=39
+
+initial.nativename=Lios
+initial.startlevel=-1
+
+initial.signs=0,2,1,3,5,7,8,6,4
+initial.shop=townhall
+initial.male=king
+initial.female=queen
+initial.tag=leasure

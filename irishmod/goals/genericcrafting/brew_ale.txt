@@ -1,0 +1,12 @@
+buildingTag=alebrewery
+
+priority=400
+
+duration=5000
+
+heldItems=bottle,cider
+
+input=wheat,5
+output=cider,1
+
+sound=glass

@@ -1,0 +1,6 @@
+building.length=4
+building.width=4
+building.buildingorientation=3
+
+initial.startlevel=-6
+initial.nativename=Tobar

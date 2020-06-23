@@ -1,0 +1,7 @@
+building.length=19
+building.width=18
+building.buildingorientation=3
+
+initial.startlevel=-1
+initial.nativename=Bóitheach
+initial.tag=cattle

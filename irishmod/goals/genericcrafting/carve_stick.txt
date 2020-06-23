@@ -1,0 +1,12 @@
+buildingTag=carpentry
+
+priority=400
+
+duration=5000
+
+heldItems=wood_oak,shillelagh
+
+input=wood_oak,5
+output=shillelagh,1
+
+sound=wood

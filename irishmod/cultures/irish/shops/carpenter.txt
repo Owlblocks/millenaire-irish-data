@@ -1,0 +1,5 @@
+sells=shillelagh
+
+buys=wood
+
+deliverto=wood
