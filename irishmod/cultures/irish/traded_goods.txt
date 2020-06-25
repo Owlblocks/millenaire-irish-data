@@ -172,7 +172,7 @@ summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
 
 
 
-
+thatch,16,14,0,1024,0,false,0,0,construction
 tapestry,5*64,5*60,0,0,10*64,,,2*64*64,construction
 timberframeplain,16,14,0,1024,0,false,0,0,construction
 timberframecross,20,18,0,512,0,false,0,0,construction
