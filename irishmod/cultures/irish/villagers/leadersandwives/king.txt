@@ -22,7 +22,7 @@ texture=textures/entity/norman/male/nor_nobleman_7.png
 texture=textures/entity/norman/male/nor_nobleman_8.png
 texture=textures/entity/norman/male/nor_nobleman_9.png
 
-clothes=free,textures/entity/irish/male/clothes/irish_king_0.png
+clothes=free,textures/entity/norman/male/clothes/nor_knight_0.png
 
 goal=gorest
 goal=gosocialise
