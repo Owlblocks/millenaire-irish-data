@@ -1,0 +1,13 @@
+building.length=15
+building.width=11
+building.areatoclear=3
+building.icon=book
+building.version=1
+building.max=1
+
+initial.startlevel=-1
+initial.nativename=Áras Cónaithe
+initial.priority=1
+initial.male=gaelic_monk
+initial.male=gaelic_monk
+initial.pathlevel=1

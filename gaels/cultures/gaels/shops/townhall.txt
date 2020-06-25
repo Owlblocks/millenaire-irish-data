@@ -1,0 +1,7 @@
+sells=dirtwall,pathdirt,pathgravel,wood,wood_pine,wood_birch,cobblestone,stone,thatch,bed_straw,iron,wool_white,wool_lightgray,wool_gray,wool_black,wool_brown,banner_white,bookshelves,cauldron,carrot,purse,summoningwand,fire_pit,sod_oak
+
+buys=wood,wood_pine,wood_birch,cobblestone,stone,thatch,bed_straw,iron,wool_white,wool_lightgray,wool_gray,wool_black,wool_brown,wool_pink,banner_white,bookshelves,cauldron,leather,fire_pit,sod_oak
+
+buysoptional=wood_any
+
+deliverto=wood,wood_pine,wood_birch,wood_jungle,wood_acacia,wood_darkoak,cobblestone,stone,thatch,wool_white,wool_lightgray,wool_gray,wool_black,wool_brown,wool_pink,carrot,dirtwall,pathdirt,pathgravel,bed_straw,cauldron,banner_white

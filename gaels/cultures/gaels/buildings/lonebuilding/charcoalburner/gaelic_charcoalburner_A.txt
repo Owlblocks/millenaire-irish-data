@@ -1,0 +1,9 @@
+building.length=19
+building.width=19
+building.icon=charcoal
+
+initial.nativename=Poll Gualaigh
+initial.pathlevel=1
+initial.shop=lonecharcoalburner
+initial.startlevel=-1
+initial.tag=nopaths

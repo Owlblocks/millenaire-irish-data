@@ -1,0 +1,13 @@
+building.length=11
+building.width=11
+building.areatoclear=3
+building.icon=book
+building.version=1
+building.max=1
+
+initial.startlevel=-1
+initial.nativename=Teach Screaptra
+initial.priority=1
+initial.pathlevel=1
+initial.tag=books
+initial.shop=gaelic_bookshop

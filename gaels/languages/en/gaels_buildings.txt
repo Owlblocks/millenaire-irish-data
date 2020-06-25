@@ -1,0 +1,41 @@
+//Townhalls
+gaelic_monastery_A0=Monastery
+gaelic_monastery_A_roundtower_A0=Round Tower
+
+//Houses
+gaelic_brewery_A0=Brewery
+gaelic_cattlepasture_A0=Cattle Pasture
+gaelic_farmhouse_A0=Farmhouse
+gaelic_forge_A0=Forge
+gaelic_masonshouse_A0=Mason's House
+gaelic_dormitory_A0=Monks' Dormitory
+gaelic_quarry_A0=Quarry
+gaelic_tannery_A0=Tannery
+gaelic_toolmaker_A0=Toolmaker's Workshop
+gaelic_weavershouse_A0=Weaver's House
+gaelic_woodcuttershouse_A0=Woodcutter's House
+
+//Other village buildings
+gaelic_chickencoop_A0=Chicken Coop
+gaelic_church_A0=Church
+gaelic_cross_A0=High Cross
+gaelic_fishponds_A0=Fishponds
+gaelic_horizontalmill_A0=Watermill
+gaelic_mixedgrove_A0=Coppice
+gaelic_monasteryarchives_A0=Village Archive
+gaelic_monasteryinn_A0=Guesthouse
+gaelic_monasterymarket_A0=Market
+gaelic_monasteryrefectory_A0=Kitchen
+gaelic_monasteryscriptorium_A0=Scriptorium
+gaelic_oakgrove_A0=Oak Coppice
+gaelic_oaktree_A0=Oak Tree
+gaelic_orchard_A0=Orchard
+gaelic_pigsty_A0=Pigsty
+gaelic_sheeppen_A0=Sheep Pen
+gaelic_vegetablegarden_A0=Vegetable Garden
+gaelic_well_A0=Well
+gaelic_wheatfield_A0=Wheatfield
+
+//Lone Buildings
+
+//Walls

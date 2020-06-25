@@ -1,0 +1,73 @@
+travelbook.culture.desc=PLACEHOLDER
+
+//Villages
+travelbook.village.gaelic_monasticvillage.desc=Under the guidance of the abbot, the monks and villagers here labour for the glory of god.
+
+//Townhalls
+travelbook.building.gaelic_monastery.desc=Monastery
+travelbook.building.gaelic_monastery_A_roundtower.desc=Roundtower
+
+//Houses
+travelbook.building.gaelic_brewery.desc=Brewery
+travelbook.building.gaelic_cattlepasture.desc=Cattle Pasture
+travelbook.building.gaelic_farmhouse.desc=Farmhouse
+travelbook.building.gaelic_forge.desc=Forge
+travelbook.building.gaelic_masonshouse.desc=Mason's House
+travelbook.building.gaelic_dormitory.desc=Monks' Dormitory
+travelbook.building.gaelic_quarry.desc=Quarry
+travelbook.building.gaelic_tannery.desc=Tannery
+travelbook.building.gaelic_toolmaker.desc=Toolmaker's Workshop
+travelbook.building.gaelic_weavershouse.desc=Weaver's House
+travelbook.building.gaelic_woodcuttershouse.desc=Woodcutter's House
+
+//Other village buildings
+travelbook.building.gaelic_chickencoop.desc=Chicken Coop
+travelbook.building.gaelic_church.desc=Church
+travelbook.building.gaelic_cross.desc=High Cross
+travelbook.building.gaelic_fishponds.desc=The monks keep fish here for their Friday meal.
+travelbook.building.gaelic_horizontalmill.desc=Watermill
+travelbook.building.gaelic_mixedgrove.desc=Coppice
+travelbook.building.gaelic_monasteryarchives.desc=Village Archive
+travelbook.building.gaelic_monasteryinn.desc=Guesthouse
+travelbook.building.gaelic_monasterymarket.desc=Market
+travelbook.building.gaelic_monasteryrefectory.desc=Kitchen
+travelbook.building.gaelic_monasteryscriptorium.desc=Scriptorium
+travelbook.building.gaelic_oakgrove.desc=Oak Coppice
+travelbook.building.gaelic_oaktree.desc=Oak Tree
+travelbook.building.gaelic_orchard.desc=Orchard
+travelbook.building.gaelic_pigsty.desc=Pigsty
+travelbook.building.gaelic_sheeppen.desc=Sheep Pen
+travelbook.building.gaelic_vegetablegarden.desc=Vegetable Garden.desc=Don't forget to eat your greens!
+travelbook.building.gaelic_well.desc=Despite the lies those in the tavern spread, water is best, as the poet said.
+travelbook.building.gaelic_wheatfield.desc=A golden field of wheat, destined to be made into beer and bread.
+
+//Villagers
+travelbook.villager.gaelic_abbot.desc=Abbot
+travelbook.villager.gaelic_brewer.desc=Brewer
+travelbook.villager.gaelic_cattlefarmer.desc=Cattle Farmer
+travelbook.villager.gaelic_childboy.desc=Boy
+travelbook.villager.gaelic_childgirl.desc=Girl
+travelbook.villager.gaelic_farmer.desc=Farmer
+travelbook.villager.gaelic_fisherman.desc=Fisherman
+travelbook.villager.gaelic_husband.desc=Husband
+travelbook.villager.gaelic_localmerchant.desc=Merchant
+travelbook.villager.gaelic_mason.desc=Mason
+travelbook.villager.gaelic_merchantbyzantine.desc=Byzantine Trader
+travelbook.villager.gaelic_merchantinuit.desc=Inuit Trader
+travelbook.villager.gaelic_merchantjapanese.desc=Japanese Trader
+travelbook.villager.gaelic_merchantmayan.desc=Mayan Trader
+travelbook.villager.gaelic_merchantnorman.desc=Norman Trader
+travelbook.villager.gaelic_merchantseljuk.desc=Seljuk Trader
+travelbook.villager.gaelic_merchantviking.desc=Viking Trader
+travelbook.villager.gaelic_miner.desc=Quarryman
+travelbook.villager.gaelic_monk.desc=Monk
+travelbook.villager.gaelic_pilgrim.desc=Pilgrim
+travelbook.villager.gaelic_priest.desc=Priest
+travelbook.villager.gaelic_shepherd.desc=Shepherd
+travelbook.villager.gaelic_smith.desc=Smith
+travelbook.villager.gaelic_smithsapprentice.desc=Smith's Apprentice
+travelbook.villager.gaelic_tanner.desc=Tanner
+travelbook.villager.gaelic_toolmaker.desc=Woodworker
+travelbook.villager.gaelic_weaver.desc=Weaver
+travelbook.villager.gaelic_wife.desc=Wife
+travelbook.villager.gaelic_woodcutter.desc=Woodcutter

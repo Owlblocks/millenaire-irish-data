@@ -1,0 +1,5 @@
+building.length=39
+building.width=39
+
+initial.startlevel=-2
+initial.nativename=export1

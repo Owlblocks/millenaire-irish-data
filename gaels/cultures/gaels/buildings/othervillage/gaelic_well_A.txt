@@ -1,0 +1,14 @@
+building.length=8
+building.width=8
+building.areatoclear=3
+building.icon=bucketwater
+building.version=1
+building.max=1
+building.farfromtag=pathnode,30
+
+initial.startlevel=-5
+initial.nativename=Tobar
+initial.priority=1
+initial.pathlevel=1
+initial.tag=pathnode
+initial.irrigation=5

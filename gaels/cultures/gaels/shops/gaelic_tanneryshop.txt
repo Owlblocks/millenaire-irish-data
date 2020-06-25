@@ -1,0 +1,3 @@
+sells=leatherHelmet,leatherChest,leatherLegs,leatherBoots
+
+deliverto=leatherHelmet,leatherChest,leatherLegs,leatherBoots

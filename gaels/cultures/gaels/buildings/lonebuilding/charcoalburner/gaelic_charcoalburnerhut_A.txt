@@ -1,0 +1,9 @@
+building.length=12
+building.width=14
+building.icon=thatch
+
+initial.male=gaelic_lonecharcoalburner
+initial.nativename=Bothán
+initial.pathlevel=1
+initial.startlevel=-1
+initial.tag=nopaths

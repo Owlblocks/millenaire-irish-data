@@ -1,0 +1,68 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation,  desc code for the help screen
+
+//Townhall
+dirtwall,1,0,0,0,0,false,,0,construction
+pathdirt,1,0,0,0,0,false,,0,construction
+pathgravel,2,0,0,0,0,false,,0,construction
+wood,2,1,128,1024,0,false,,0,construction
+wood_pine,2,1,64,256,0,false,,0,construction
+wood_birch,2,1,128,1024,0,false,,0,construction
+wood_any,2,1,128,2048,0,false,,0,construction
+thatch,12,8,128,512,,,,2*64*64,construction
+cobblestone,2,1,128,1024,0,false,,0,construction
+stone,3,2,128,1024,0,false,,0,construction
+sod_oak,5,3,0,64,7,false,,0,construction
+bed_straw,16,0,4,16,0,false,,0,construction
+iron,25,20,0,10,0,false,,0,crafting
+cauldron,200,180,2,4,0,false,,0,construction
+fire_pit,3*64,2*64,0,6,4*64,false,,1*64*64,construction
+wool_white,10,8,0,64,12,false,,0,construction
+wool_gray,12,0,0,64,32,false,,0,construction
+wool_lightgray,12,0,0,64,16,false,,0,construction
+wool_black,12,0,0,64,24,false,,0,construction
+wool_brown,16,0,0,64,18,false,,0,construction
+wool_pink,16,0,0,0,18,false,,0,foreigntrade
+leather,20,0,16,64,25,false,,0,crafting
+bookshelves,220,166,8,16, 0,false,,0,construction
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
+banner_white,64,58,4,16,0,false,,0,construction
+
+//Bookshop
+
+
+//Brewery Shop
+cider,64,60,5,10,80,false,,0,agriculture
+
+//Kitchen Shop
+sapling_appletree,8,0,0,0,0,true,,8192,agriculture
+seeds,2,1,10,128,2,false,,0,agriculture
+wheat,3,2,10,128,4,false,,0,agriculture
+carrot,5,4,10,64,16,false,,0,agriculture
+bread,10,8,5,10,15,false,,0,agriculture
+egg,4,2,16,80,6,false,,0,agriculture
+feather,2,1,16,64,4,false,,0,crafting
+leather,20,0,16,64,25,false,,0,crafting
+beefraw,25,20,4,64,32,false,,0,agriculture
+beefcooked,28,20,4,64,48,false,,0,agriculture
+porkchops,25,20,4,64,32,false,,0,agriculture
+porkchopscooked,28,20,4,64,48,false,,0,agriculture
+chickenmeat,20,0,4,64,32,false,,0,agriculture
+chickenmeatcooked,28,20,4,64,48,false,,0,agriculture
+fishcooked,7,5,0,0,16,false,,0,foreigntrade
+
+//Tannery Shop
+leatherHelmet,0,15*5,0,0, 0,false,,0,weapons
+leatherChest,0,15*8,0,0, 0,false,,0,weapons
+leatherLegs,0,15*7,0,0, 0,false,,0,weapons
+leatherBoots,0,15*4,0,0, 0,false,,0,weapons
+
+//Tool Shop
+
+
+
+//Viking Merchant
+//For viking seller
+yggdrasil_amulet,0,0,0,0,32*64,false,0,0,foreigntrade
+skoll_hati_amulet,0,0,0,0,64*64,false,0,0,foreigntrade
+

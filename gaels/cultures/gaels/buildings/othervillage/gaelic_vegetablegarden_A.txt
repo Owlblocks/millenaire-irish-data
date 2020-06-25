@@ -1,0 +1,12 @@
+building.length=12
+building.width=15
+building.areatoclear=3
+building.icon=carrot
+building.version=1
+building.max=1
+
+initial.startlevel=-1
+initial.nativename=Luibhghort
+initial.priority=1
+initial.pathlevel=1
+initial.tag=carrot

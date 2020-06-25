@@ -1,0 +1,13 @@
+name=Charcoal Burner
+weight=10
+radius=30
+
+biome=Forest
+biome=ForestHills
+biome=Roofed Forest
+
+pathmaterial=pathdirt
+
+centre=gaelic_charcoalburner
+start=gaelic_charcoalburnerhut
+start=gaelic_oakgrove

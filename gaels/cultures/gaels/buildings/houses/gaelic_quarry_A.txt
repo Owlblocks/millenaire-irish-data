@@ -1,0 +1,13 @@
+building.length=20
+building.width=20
+building.areatoclear=3
+building.icon=steelpickaxe
+building.version=1
+building.max=1
+building.mindistance=0.6
+
+initial.startlevel=-1
+initial.nativename=Cairéal 
+initial.priority=1
+initial.male=gaelic_miner
+initial.pathlevel=1
