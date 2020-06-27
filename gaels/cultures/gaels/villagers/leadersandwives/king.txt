@@ -40,4 +40,7 @@ toolneededclass=toolssword
 baseAttackStrength=4
 tag=helpInAttacks
 defaultweapon=woodsword
+startingInv=steelchest,1
+startingInv=steellegs,1
+startingInv=steelboots,1
 experiencegiven=20

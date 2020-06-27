@@ -2,4 +2,4 @@ building.length=20
 building.width=15
 
 initial.startlevel=-4
-initial.nativename=Ósta
+initial.nativename=export1

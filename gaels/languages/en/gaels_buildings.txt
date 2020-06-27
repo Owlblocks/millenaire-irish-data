@@ -2,6 +2,8 @@
 gaelic_monastery_A0=Monastery
 gaelic_monastery_A_roundtower_A0=Round Tower
 
+ringfort_a0=Ringfort
+
 //Houses
 gaelic_brewery_A0=Brewery
 gaelic_cattlepasture_A0=Cattle Pasture
@@ -14,6 +16,11 @@ gaelic_tannery_A0=Tannery
 gaelic_toolmaker_A0=Toolmaker's Workshop
 gaelic_weavershouse_A0=Weaver's House
 gaelic_woodcuttershouse_A0=Woodcutter's House
+
+irishcattlefarm_a0=Cattle Farm
+irishcrafter_a0=Carpentry Shop
+irishpub_a0=Pub
+irishroundhouse_a0=Roundhouse
 
 //Other village buildings
 gaelic_chickencoop_A0=Chicken Coop
@@ -35,6 +42,10 @@ gaelic_sheeppen_A0=Sheep Pen
 gaelic_vegetablegarden_A0=Vegetable Garden
 gaelic_well_A0=Well
 gaelic_wheatfield_A0=Wheatfield
+
+irishchapel_a0=Chapel
+irishgrove_a0=Grove
+irishwell_a0=Well
 
 //Lone Buildings
 

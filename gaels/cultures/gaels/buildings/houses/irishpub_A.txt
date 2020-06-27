@@ -11,4 +11,3 @@ initial.shop=tavern
 initial.tag=alebrewery
 
 initial.male=irishbartender
-initial.female=irishwife

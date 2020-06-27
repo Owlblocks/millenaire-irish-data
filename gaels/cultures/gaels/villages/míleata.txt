@@ -3,10 +3,14 @@ icon=shillelagh
 
 weight=10
 carriesraid=true
+qualifier=le-fort
 hillQualifier=ardchríche
-mountainQualifier=sliabhraon
-forestQualifier=foraois
-lakeQualifier=loch
+mountainQualifier=la-montagne
+desertQualifier=le-désert
+forestQualifier=la-fôret
+lavaQualifier=le-volcan
+lakeQualifier=le-lac
+oceanQualifier=l'océan
 
 //Vanilla biomes
 biome=Plains

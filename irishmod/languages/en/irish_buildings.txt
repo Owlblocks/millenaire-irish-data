@@ -1,8 +1,0 @@
-ringfort_a0=Ringfort
-irishcattlefarm_a0=Cattle Farm
-irishcrafter_a0=Carpentry Shop
-irishpub_a0=Pub
-irishroundhouse_a0=Roundhouse
-irishchapel_a0=Chapel
-irishgrove_a0=Grove
-irishwell_a0=Well
