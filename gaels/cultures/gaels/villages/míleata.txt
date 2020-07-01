@@ -31,15 +31,18 @@ pathmaterial=pathslabs
 
 //starting buildings:
 centre=ringfort
-start=irishchapel
-start=irishcattlefarm
 start=irishroundhouse
 start=irishgrove
-start=irishpub
-start=irishcrafter
-start=vikinglumberman
+start=gaelic_farmhouse
+start=gaelic_wheatfield
 
-core=irishwell
+core=irishchapel
+core=start=gaelic_quarry
+core=gaelic_cattlefarm
+core=irishpub
+core=irishcrafter
+
+secondary=irishwell
 
 //Selling prices:
 
