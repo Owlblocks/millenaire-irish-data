@@ -1,0 +1,8 @@
+village_wall_tower=gaelic_borderpost
+village_wall_gate=gaelic_borderpost_gate
+village_wall_corner=gaelic_borderpost_corner
+village_wall_nb_between_towers=50
+
+village_wall_gate_spawn=true
+village_wall_corner_spawn=true
+village_wall_tower_spawn=true

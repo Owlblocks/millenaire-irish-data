@@ -1,0 +1,19 @@
+building.length=11
+building.width=19
+building.areatoclear=3
+building.buildingorientation=1
+building.icon=steelaxe
+building.version=1
+building.max=1
+building.mindistance=0.6
+building.closetotag=grove,45
+
+initial.startlevel=-1
+initial.nativename=Teach Foraoiseora
+initial.male=gaelic_woodcutter
+initial.female=gaelic_wife
+initial.pathlevel=1
+
+upgrade1.priority=1
+
+upgrade2.priority=1

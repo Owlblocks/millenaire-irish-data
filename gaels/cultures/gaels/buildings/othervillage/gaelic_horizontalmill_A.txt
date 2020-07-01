@@ -1,0 +1,8 @@
+building.length=17
+building.width=22
+
+initial.startlevel=-2
+initial.nativename=export1
+
+upgrade1.priority=1
+upgrade1.tag=stonebuilding

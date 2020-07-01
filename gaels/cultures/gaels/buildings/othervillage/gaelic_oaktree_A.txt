@@ -1,0 +1,13 @@
+building.length=12
+building.width=12
+building.areatoclear=0
+building.icon=sapling
+building.version=1
+building.max=1
+building.farfromtag=pathnode,30
+
+initial.startlevel=-1
+initial.nativename=Crann Darach
+initial.priority=1
+initial.pathlevel=1
+initial.tag=pathnode

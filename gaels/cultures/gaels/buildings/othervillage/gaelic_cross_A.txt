@@ -1,0 +1,14 @@
+building.length=7
+building.width=8
+building.areatoclear=3
+building.icon=cobblestone
+building.version=1
+building.max=1
+building.farfromtag=pathnode,30
+
+initial.startlevel=-1
+initial.nativename=Ardchros
+initial.priority=1
+initial.pathlevel=1
+initial.tag=pathnode
+initial.tag=praying

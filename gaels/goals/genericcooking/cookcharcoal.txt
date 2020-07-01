@@ -1,0 +1,10 @@
+townhallgoal=true
+priority=50
+helditems=wood
+
+townhalllimit=charcoal,64
+
+icon=charcoal
+
+itemtocook=wood_any
+minimumtocook=16

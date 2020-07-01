@@ -1,0 +1,53 @@
+culture.gaels=Gaelic
+culture.fullname=The Gaels
+
+//Village Types
+village.gaelic_monasticvillage=Monastery
+village.míleata=Military Village
+
+//Shops
+shop.carpenter=Carpenter's Shop
+shop.tavern=Tavern
+
+//Villagers and Visitors
+villager.gaelic_abbot=Abbot
+villager.gaelic_brewer=Brewer
+villager.gaelic_cattlefarmer=Cattle Farmer
+villager.gaelic_childboy=Boy
+villager.gaelic_childgirl=Girl
+villager.gaelic_farmer=Farmer
+villager.gaelic_fisherman=Fisherman
+villager.gaelic_husband=Husband
+villager.gaelic_localmerchant=Merchant
+villager.gaelic_mason=Mason
+villager.gaelic_merchantbyzantine=Byzantine Trader
+villager.gaelic_merchantinuit=Inuit Trader
+villager.gaelic_merchantjapanese=Japanese Trader
+villager.gaelic_merchantmayan=Mayan Trader
+villager.gaelic_merchantnorman=Norman Trader
+villager.gaelic_merchantseljuk=Seljuk Trader
+villager.gaelic_merchantviking=Viking Trader
+villager.gaelic_miner=Quarryman
+villager.gaelic_monk=Monk
+villager.gaelic_pilgrim=Pilgrim
+villager.gaelic_priest=Priest
+villager.gaelic_shepherd=Shepherd
+village.gaelic_smith=Smith
+villager.gaelic_smithsapprentice=Smith's Apprentice
+villager.gaelic_tanner=Tanner
+villager.gaelic_toolmaker=Woodworker
+villager.gaelic_weaver=Weaver
+villager.gaelic_wife=Wife
+villager.gaelic_woodcutter=Woodcutter
+
+villager.irishboy=Boy
+villager.irishgirl=Girl
+villager.king=King
+villager.queen=Queen
+villager.irishbartender=Bartender
+villager.irishcarpenter=Carpenter
+villager.irishlumberman=Lumberman
+villager.irishwife=Wife
+
+
+

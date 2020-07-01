@@ -1,0 +1,17 @@
+building.length=40
+building.width=40
+building.icon=bed_straw
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=gaelic_rath_A2
+building.version=1
+
+initial.nativename=Teachín
+initial.priority=1
+initial.startlevel=-2
+
+upgrade1.priority=1
+
+upgrade2.priority=1
+
+upgrade3.priority=1
